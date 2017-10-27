@@ -1,4 +1,4 @@
-# Match the Flags
+# RGB to HSV
 
 Simple tool to convert RGB values to their respective HSV values using Processing.
 
